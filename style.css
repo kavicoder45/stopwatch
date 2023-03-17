@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+      
+    background-image: url("./assests/red.solid.webp");
+    box-shadow: 799%;
+}
+.container
+{
+    text-align: center;
+    font-family: jost;
+    color: whitesmoke;
+    margin-top: 7vw;
+    font-size: 2em;
+      
+}
+#button-start
+{
+    height: 7vw;
+    width: 10vw;
+    margin-top: 10vw;
+}
+#button-stop
+{
+    height: 7vw;
+    width: 10vw;
+    margin-top: 10vw;
+}
+#button-reset
+{
+    height: 7vw;
+    width: 10vw;
+    margin-top: 10vw;
+
+}
+
+#seconds,#tens
+{
+         background-color: rgb(237, 6, 6);
+         border: 5px solid red;
+         border-radius: 10%;
+         border-style: groove;
+         box-shadow: 700% black ;
+         border-collapse: collapse;
+}
+#head
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
